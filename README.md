@@ -1,6 +1,5 @@
 # Hotel Booking-Exploratory Data Analysis
-![image](https://user-images.githubusercontent.com/117563703/204213298-540a1f80-d62c-4f71-a669-0ff6b8078c73.png)
-
+![Uploading 204213298-540a1f80-d62c-4f71-a669-0ff6b8078c73.png…]()
 
 The hospitality industry is highly competitive in nature and the key to maintain competitive advantage lies with how hotels manage and analyse the data. To understand the business context of the hotel industry we need to understand the effect of different parameters affecting the hotel performance like when the booking was made, length of stay, number of persons staying, etc.
 
